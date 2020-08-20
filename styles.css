@@ -78,6 +78,7 @@ header .profile-image {
   border-radius: 100%;
   border: 2px solid white;
   transition: all .7s;
+
 }
 
 header .profile-image:hover {
@@ -232,4 +233,9 @@ h1, p{
   background-color:#e8ded2;
   text-align: center;
   padding: 80px;
+}
+
+.Photo-web{
+  width: 600px;
+  margin-top: 50px;
 }
